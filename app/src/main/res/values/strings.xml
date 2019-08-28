@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cardápio</string>
+    <string name="menu_item1">Sobre</string>
+    <string name="titulo_sobre">Sobre</string>
 </resources>
